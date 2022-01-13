@@ -12,3 +12,5 @@ Pada file latihan.php terdapat beberapa materi dasar-dasar Objek Oriented PHP se
 9. Objek Type
 10. Inheritance
 11. Overriding
+12. Static Class
+13. Constanta PHP
